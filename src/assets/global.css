@@ -1,0 +1,17 @@
+/* 全局CSS */
+html,
+body,
+#app {
+  height: 100%;
+  width: 100%;
+  --theme-color:#20b996;
+}
+
+body {
+  margin: 0;
+  font-size: 14px;
+}
+
+*,::after,::before {
+  box-sizing: border-box;
+}
